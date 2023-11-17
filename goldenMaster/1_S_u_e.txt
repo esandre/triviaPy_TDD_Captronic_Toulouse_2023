@@ -1,0 +1,2038 @@
+Player 1 was added
+They are player number 1
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 10
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 5
+Player 1 is getting out of the penalty box
+Player 1's new location is 3
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Player 1 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1 is getting out of the penalty box
+Player 1's new location is 8
+The category is Pop
+Pop Question 1
+Answer was correct!!!!
+Player 1 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1 is getting out of the penalty box
+Player 1's new location is 11
+The category is Rock
+Rock Question 1
+Answer was correct!!!!
+Player 1 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1 is getting out of the penalty box
+Player 1's new location is 0
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 10
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1 is getting out of the penalty box
+Player 1's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1 is getting out of the penalty box
+Player 1's new location is 3
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1 is getting out of the penalty box
+Player 1's new location is 6
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3 is getting out of the penalty box
+Player 3's new location is 10
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 1
+Player 3 is getting out of the penalty box
+Player 3's new location is 11
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Player 3 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 3 is the current player
+They have rolled a 1
+Player 3 is getting out of the penalty box
+Player 3's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+Player 3 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 3
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 4 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3 is getting out of the penalty box
+Player 3's new location is 10
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 4 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 1
+The category is Science
+Science Question 3
+Answer was correct!!!!
+Player 3 now has 2 Gold Coins.
+Player 4 is the current player
+They have rolled a 1
+Player 4's new location is 8
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+Player 4 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 1
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 4 is the current player
+They have rolled a 5
+Player 4's new location is 1
+The category is Science
+Science Question 5
+Answer was corrent!!!!
+Player 4 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 6
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 4
+The category is Pop
+Pop Question 5
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 4
+The category is Pop
+Pop Question 6
+Answer was correct!!!!
+Player 3 now has 3 Gold Coins.
+Player 4 is the current player
+They have rolled a 5
+Player 4's new location is 6
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+Player 4 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1 is getting out of the penalty box
+Player 1's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 5
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Player 2 was sent to the penalty box
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 7
+The category is Rock
+Rock Question 3
+Answer was correct!!!!
+Player 3 now has 4 Gold Coins.
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 9
+The category is Science
+Science Question 7
+Answer was corrent!!!!
+Player 4 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 5 was added
+They are player number 5
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 4 now has 1 Gold Coins.
+Player 5 is the current player
+They have rolled a 4
+Player 5's new location is 4
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+Player 5 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 8
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 4 is the current player
+They have rolled a 1
+Player 4's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+Player 4 now has 2 Gold Coins.
+Player 5 is the current player
+They have rolled a 5
+Player 5's new location is 9
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+Player 5 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 4 is the current player
+They have rolled a 1
+Player 4's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Player 4 now has 3 Gold Coins.
+Player 5 is the current player
+They have rolled a 4
+Player 5's new location is 1
+The category is Science
+Science Question 5
+Answer was corrent!!!!
+Player 5 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 5
+The category is Science
+Science Question 6
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 0
+The category is Pop
+Pop Question 5
+Question was incorrectly answered
+Player 2 was sent to the penalty box
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 9
+The category is Science
+Science Question 7
+Answer was corrent!!!!
+Player 4 now has 4 Gold Coins.
+Player 5 is the current player
+They have rolled a 5
+Player 5's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 5 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1's new location is 6
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2 is getting out of the penalty box
+Player 2's new location is 1
+The category is Science
+Science Question 8
+Question was incorrectly answered
+Player 2 was sent to the penalty box
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 11
+The category is Rock
+Rock Question 1
+Answer was correct!!!!
+Player 3 now has 2 Gold Coins.
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 0
+The category is Pop
+Pop Question 6
+Answer was corrent!!!!
+Player 4 now has 5 Gold Coins.
+Player 5 is the current player
+They have rolled a 2
+Player 5's new location is 8
+The category is Pop
+Pop Question 7
+Answer was corrent!!!!
+Player 5 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 8
+The category is Pop
+Pop Question 8
+Answer was corrent!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 5 was added
+They are player number 5
+C was added
+They are player number 1
+h was added
+They are player number 2
+e was added
+They are player number 3
+t was added
+They are player number 4
+C is the current player
+They have rolled a 4
+C's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+C now has 1 Gold Coins.
+h is the current player
+They have rolled a 1
+h's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+h now has 1 Gold Coins.
+e is the current player
+They have rolled a 5
+e's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+e was sent to the penalty box
+t is the current player
+They have rolled a 4
+t's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+t now has 1 Gold Coins.
+C is the current player
+They have rolled a 4
+C's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+C now has 2 Gold Coins.
+h is the current player
+They have rolled a 5
+h's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+h now has 2 Gold Coins.
+e is the current player
+They have rolled a 5
+e is getting out of the penalty box
+e's new location is 10
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+e now has 1 Gold Coins.
+t is the current player
+They have rolled a 3
+t's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+t now has 2 Gold Coins.
+C is the current player
+They have rolled a 1
+C's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+C now has 3 Gold Coins.
+h is the current player
+They have rolled a 5
+h's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+h now has 3 Gold Coins.
+e is the current player
+They have rolled a 3
+e is getting out of the penalty box
+e's new location is 1
+The category is Science
+Science Question 3
+Answer was correct!!!!
+e now has 2 Gold Coins.
+t is the current player
+They have rolled a 1
+t's new location is 8
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+t now has 3 Gold Coins.
+C is the current player
+They have rolled a 4
+C's new location is 1
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+C now has 4 Gold Coins.
+h is the current player
+They have rolled a 1
+h's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+h now has 4 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+t is the current player
+They have rolled a 5
+t's new location is 1
+The category is Science
+Science Question 5
+Answer was corrent!!!!
+t now has 4 Gold Coins.
+C is the current player
+They have rolled a 5
+C's new location is 6
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+C was sent to the penalty box
+h is the current player
+They have rolled a 4
+h's new location is 4
+The category is Pop
+Pop Question 5
+Answer was corrent!!!!
+h now has 5 Gold Coins.
+e is the current player
+They have rolled a 3
+e is getting out of the penalty box
+e's new location is 4
+The category is Pop
+Pop Question 6
+Answer was correct!!!!
+e now has 3 Gold Coins.
+t is the current player
+They have rolled a 5
+t's new location is 6
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+t now has 5 Gold Coins.
+C is the current player
+They have rolled a 1
+C is getting out of the penalty box
+C's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+C now has 5 Gold Coins.
+h is the current player
+They have rolled a 1
+h's new location is 5
+The category is Science
+Science Question 6
+Question was incorrectly answered
+h was sent to the penalty box
+e is the current player
+They have rolled a 3
+e is getting out of the penalty box
+e's new location is 7
+The category is Rock
+Rock Question 3
+Answer was correct!!!!
+e now has 4 Gold Coins.
+t is the current player
+They have rolled a 3
+t's new location is 9
+The category is Science
+Science Question 7
+Answer was corrent!!!!
+t now has 6 Gold Coins.
+P was added
+They are player number 1
+a was added
+They are player number 2
+t was added
+They are player number 3
+P is the current player
+They have rolled a 4
+P's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+P now has 1 Gold Coins.
+a is the current player
+They have rolled a 1
+a's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+a now has 1 Gold Coins.
+t is the current player
+They have rolled a 5
+t's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+t was sent to the penalty box
+P is the current player
+They have rolled a 4
+P's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+P now has 2 Gold Coins.
+a is the current player
+They have rolled a 4
+a's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+a now has 2 Gold Coins.
+t is the current player
+They have rolled a 5
+t is getting out of the penalty box
+t's new location is 10
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+t now has 1 Gold Coins.
+P is the current player
+They have rolled a 5
+P's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+P now has 3 Gold Coins.
+a is the current player
+They have rolled a 3
+a's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+a now has 3 Gold Coins.
+t is the current player
+They have rolled a 1
+t is getting out of the penalty box
+t's new location is 11
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+t now has 2 Gold Coins.
+P is the current player
+They have rolled a 5
+P's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+P now has 4 Gold Coins.
+a is the current player
+They have rolled a 3
+a's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+a now has 4 Gold Coins.
+t is the current player
+They have rolled a 1
+t is getting out of the penalty box
+t's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+t now has 3 Gold Coins.
+P is the current player
+They have rolled a 4
+P's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+P now has 5 Gold Coins.
+a is the current player
+They have rolled a 1
+a's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+a now has 5 Gold Coins.
+t is the current player
+They have rolled a 4
+t is not getting out of the penalty box
+P is the current player
+They have rolled a 5
+P's new location is 3
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+P now has 6 Gold Coins.
+S was added
+They are player number 1
+u was added
+They are player number 2
+e was added
+They are player number 3
+S is the current player
+They have rolled a 4
+S's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+S now has 1 Gold Coins.
+u is the current player
+They have rolled a 1
+u's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+u now has 1 Gold Coins.
+e is the current player
+They have rolled a 5
+e's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+e was sent to the penalty box
+S is the current player
+They have rolled a 4
+S's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+S now has 2 Gold Coins.
+u is the current player
+They have rolled a 4
+u's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+u now has 2 Gold Coins.
+e is the current player
+They have rolled a 5
+e is getting out of the penalty box
+e's new location is 10
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+e now has 1 Gold Coins.
+S is the current player
+They have rolled a 5
+S's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+S now has 3 Gold Coins.
+u is the current player
+They have rolled a 3
+u's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+u now has 3 Gold Coins.
+e is the current player
+They have rolled a 1
+e is getting out of the penalty box
+e's new location is 11
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+e now has 2 Gold Coins.
+S is the current player
+They have rolled a 5
+S's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+S now has 4 Gold Coins.
+u is the current player
+They have rolled a 3
+u's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+u now has 4 Gold Coins.
+e is the current player
+They have rolled a 1
+e is getting out of the penalty box
+e's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+e now has 3 Gold Coins.
+S is the current player
+They have rolled a 4
+S's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+S now has 5 Gold Coins.
+u is the current player
+They have rolled a 1
+u's new location is 0
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+u now has 5 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+S is the current player
+They have rolled a 5
+S's new location is 3
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+S now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 2
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 5
+Player 1 is getting out of the penalty box
+Player 1's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Player 1 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 2
+Player 1 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 3
+Player 1 is getting out of the penalty box
+Player 1's new location is 5
+The category is Science
+Science Question 2
+Answer was correct!!!!
+Player 1 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 1
+Player 1 is getting out of the penalty box
+Player 1's new location is 6
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+Player 1 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1 is getting out of the penalty box
+Player 1's new location is 11
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 2
+Player 1 is not getting out of the penalty box
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 11
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1 is not getting out of the penalty box
+Player 2 is the current player
+They have rolled a 2
+Player 2's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1 is getting out of the penalty box
+Player 1's new location is 9
+The category is Science
+Science Question 0
+Answer was correct!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 7
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+Player 2 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 2
+Player 2's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 10
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 0
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 3 is the current player
+They have rolled a 1
+Player 3 is getting out of the penalty box
+Player 3's new location is 5
+The category is Science
+Science Question 2
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 5
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 10
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 4 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 4
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 4 is the current player
+They have rolled a 5
+Player 4's new location is 9
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Player 4 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 8
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 2
+Player 2's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 4 is the current player
+They have rolled a 1
+Player 4's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Player 4 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+Player 2 now has 4 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3 is not getting out of the penalty box
+Player 4 is the current player
+They have rolled a 5
+Player 4's new location is 3
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+Player 4 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 5
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Player 1 was sent to the penalty box
+Player 2 is the current player
+They have rolled a 5
+Player 2's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 2 now has 5 Gold Coins.
+Player 3 is the current player
+They have rolled a 3
+Player 3 is getting out of the penalty box
+Player 3's new location is 10
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+Player 3 now has 2 Gold Coins.
+Player 4 is the current player
+They have rolled a 2
+Player 4's new location is 5
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Player 4 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 3
+Player 1 is getting out of the penalty box
+Player 1's new location is 8
+The category is Pop
+Pop Question 4
+Answer was correct!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 10
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+Player 2 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 5 was added
+They are player number 5
+Player 1 is the current player
+They have rolled a 2
+Player 1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Player 1 now has 1 Gold Coins.
+Player 2 is the current player
+They have rolled a 3
+Player 2's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Player 2 now has 1 Gold Coins.
+Player 3 is the current player
+They have rolled a 4
+Player 3's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Player 3 was sent to the penalty box
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Player 4 now has 1 Gold Coins.
+Player 5 is the current player
+They have rolled a 2
+Player 5's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Player 5 now has 1 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Player 1 now has 2 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Player 2 now has 2 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3 is getting out of the penalty box
+Player 3's new location is 9
+The category is Science
+Science Question 0
+Answer was correct!!!!
+Player 3 now has 1 Gold Coins.
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+Player 4 now has 2 Gold Coins.
+Player 5 is the current player
+They have rolled a 2
+Player 5's new location is 4
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+Player 5 now has 2 Gold Coins.
+Player 1 is the current player
+They have rolled a 3
+Player 1's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Player 1 now has 3 Gold Coins.
+Player 2 is the current player
+They have rolled a 1
+Player 2's new location is 8
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+Player 2 now has 3 Gold Coins.
+Player 3 is the current player
+They have rolled a 5
+Player 3 is getting out of the penalty box
+Player 3's new location is 2
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+Player 3 now has 2 Gold Coins.
+Player 4 is the current player
+They have rolled a 4
+Player 4's new location is 0
+The category is Pop
+Pop Question 5
+Answer was corrent!!!!
+Player 4 now has 3 Gold Coins.
+Player 5 is the current player
+They have rolled a 4
+Player 5's new location is 8
+The category is Pop
+Pop Question 6
+Answer was corrent!!!!
+Player 5 now has 3 Gold Coins.
+Player 1 is the current player
+They have rolled a 5
+Player 1's new location is 2
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+Player 1 now has 4 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2's new location is 0
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Player 2 was sent to the penalty box
+Player 3 is the current player
+They have rolled a 5
+Player 3 is getting out of the penalty box
+Player 3's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+Player 3 now has 3 Gold Coins.
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 3
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+Player 4 now has 4 Gold Coins.
+Player 5 is the current player
+They have rolled a 2
+Player 5's new location is 10
+The category is Sports
+Sports Question 5
+Question was incorrectly answered
+Player 5 was sent to the penalty box
+Player 1 is the current player
+They have rolled a 3
+Player 1's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Player 1 now has 5 Gold Coins.
+Player 2 is the current player
+They have rolled a 4
+Player 2 is not getting out of the penalty box
+Player 3 is the current player
+They have rolled a 1
+Player 3 is getting out of the penalty box
+Player 3's new location is 8
+The category is Pop
+Pop Question 8
+Answer was correct!!!!
+Player 3 now has 4 Gold Coins.
+Player 4 is the current player
+They have rolled a 3
+Player 4's new location is 6
+The category is Sports
+Sports Question 6
+Answer was corrent!!!!
+Player 4 now has 5 Gold Coins.
+Player 5 is the current player
+They have rolled a 3
+Player 5 is getting out of the penalty box
+Player 5's new location is 1
+The category is Science
+Science Question 3
+Answer was correct!!!!
+Player 5 now has 4 Gold Coins.
+Player 1 is the current player
+They have rolled a 4
+Player 1's new location is 9
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+Player 1 now has 6 Gold Coins.
+Player 1 was added
+They are player number 1
+Player 2 was added
+They are player number 2
+Player 3 was added
+They are player number 3
+Player 4 was added
+They are player number 4
+Player 5 was added
+They are player number 5
+C was added
+They are player number 1
+h was added
+They are player number 2
+e was added
+They are player number 3
+t was added
+They are player number 4
+C is the current player
+They have rolled a 2
+C's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+C now has 1 Gold Coins.
+h is the current player
+They have rolled a 3
+h's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+h now has 1 Gold Coins.
+e is the current player
+They have rolled a 4
+e's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+e was sent to the penalty box
+t is the current player
+They have rolled a 4
+t's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+t now has 1 Gold Coins.
+C is the current player
+They have rolled a 2
+C's new location is 4
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+C now has 2 Gold Coins.
+h is the current player
+They have rolled a 4
+h's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+h now has 2 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+t is the current player
+They have rolled a 5
+t's new location is 9
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+t now has 2 Gold Coins.
+C is the current player
+They have rolled a 4
+C's new location is 8
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+C now has 3 Gold Coins.
+h is the current player
+They have rolled a 2
+h's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+h now has 3 Gold Coins.
+e is the current player
+They have rolled a 3
+e is getting out of the penalty box
+e's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+e now has 1 Gold Coins.
+t is the current player
+They have rolled a 1
+t's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+t now has 3 Gold Coins.
+C is the current player
+They have rolled a 5
+C's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+C now has 4 Gold Coins.
+h is the current player
+They have rolled a 4
+h's new location is 1
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+h now has 4 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+t is the current player
+They have rolled a 5
+t's new location is 3
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+t now has 4 Gold Coins.
+C is the current player
+They have rolled a 4
+C's new location is 5
+The category is Science
+Science Question 4
+Question was incorrectly answered
+C was sent to the penalty box
+h is the current player
+They have rolled a 5
+h's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+h now has 5 Gold Coins.
+e is the current player
+They have rolled a 3
+e is getting out of the penalty box
+e's new location is 10
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+e now has 2 Gold Coins.
+t is the current player
+They have rolled a 2
+t's new location is 5
+The category is Science
+Science Question 5
+Question was incorrectly answered
+t was sent to the penalty box
+C is the current player
+They have rolled a 3
+C is getting out of the penalty box
+C's new location is 8
+The category is Pop
+Pop Question 4
+Answer was correct!!!!
+C now has 5 Gold Coins.
+h is the current player
+They have rolled a 4
+h's new location is 10
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+h now has 6 Gold Coins.
+P was added
+They are player number 1
+a was added
+They are player number 2
+t was added
+They are player number 3
+P is the current player
+They have rolled a 2
+P's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+P now has 1 Gold Coins.
+a is the current player
+They have rolled a 3
+a's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+a now has 1 Gold Coins.
+t is the current player
+They have rolled a 4
+t's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+t was sent to the penalty box
+P is the current player
+They have rolled a 4
+P's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+P now has 2 Gold Coins.
+a is the current player
+They have rolled a 2
+a's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+a now has 2 Gold Coins.
+t is the current player
+They have rolled a 4
+t is not getting out of the penalty box
+P is the current player
+They have rolled a 4
+P's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+P now has 3 Gold Coins.
+a is the current player
+They have rolled a 5
+a's new location is 10
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+a now has 3 Gold Coins.
+t is the current player
+They have rolled a 4
+t is not getting out of the penalty box
+P is the current player
+They have rolled a 2
+P's new location is 0
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+P now has 4 Gold Coins.
+a is the current player
+They have rolled a 3
+a's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+a now has 4 Gold Coins.
+t is the current player
+They have rolled a 1
+t is getting out of the penalty box
+t's new location is 5
+The category is Science
+Science Question 2
+Answer was correct!!!!
+t now has 1 Gold Coins.
+P is the current player
+They have rolled a 5
+P's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+P now has 5 Gold Coins.
+a is the current player
+They have rolled a 4
+a's new location is 5
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+a now has 5 Gold Coins.
+t is the current player
+They have rolled a 4
+t is not getting out of the penalty box
+P is the current player
+They have rolled a 5
+P's new location is 10
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+P now has 6 Gold Coins.
+S was added
+They are player number 1
+u was added
+They are player number 2
+e was added
+They are player number 3
+S is the current player
+They have rolled a 2
+S's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+S now has 1 Gold Coins.
+u is the current player
+They have rolled a 3
+u's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+u now has 1 Gold Coins.
+e is the current player
+They have rolled a 4
+e's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+e was sent to the penalty box
+S is the current player
+They have rolled a 4
+S's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+S now has 2 Gold Coins.
+u is the current player
+They have rolled a 2
+u's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+u now has 2 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+S is the current player
+They have rolled a 4
+S's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+S now has 3 Gold Coins.
+u is the current player
+They have rolled a 5
+u's new location is 10
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+u now has 3 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+S is the current player
+They have rolled a 2
+S's new location is 0
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+S now has 4 Gold Coins.
+u is the current player
+They have rolled a 3
+u's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+u now has 4 Gold Coins.
+e is the current player
+They have rolled a 1
+e is getting out of the penalty box
+e's new location is 5
+The category is Science
+Science Question 2
+Answer was correct!!!!
+e now has 1 Gold Coins.
+S is the current player
+They have rolled a 5
+S's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+S now has 5 Gold Coins.
+u is the current player
+They have rolled a 4
+u's new location is 5
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+u now has 5 Gold Coins.
+e is the current player
+They have rolled a 4
+e is not getting out of the penalty box
+S is the current player
+They have rolled a 5
+S's new location is 10
+The category is Sports
+Sports Question 4
+Answer was corrent!!!!
+S now has 6 Gold Coins.

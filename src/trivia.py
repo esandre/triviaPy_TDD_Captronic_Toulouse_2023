@@ -1,5 +1,11 @@
+from ConsoleInterface import ConsoleInterface
+
+
 class Game:
-    def __init__(self):
+    __output: ConsoleInterface = None
+
+    def __init__(self, output: ConsoleInterface):
+        self.__output = output
         self.players = []
         self.places = [0] * 6
         self.purses = [0] * 6
@@ -31,8 +37,8 @@ class Game:
         self.purses[self.how_many_players] = 0
         self.in_penalty_box[self.how_many_players] = False
 
-        print(player_name + " was added")
-        print("They are player number %s" % len(self.players))
+        self.__output.print(player_name + " was added")
+        self.__output.print("They are player number %s" % len(self.players))
 
         return True
 
@@ -41,42 +47,42 @@ class Game:
         return len(self.players)
 
     def roll(self, roll):
-        print("%s is the current player" % self.players[self.current_player])
-        print("They have rolled a %s" % roll)
+        self.__output.print("%s is the current player" % self.players[self.current_player])
+        self.__output.print("They have rolled a %s" % roll)
 
         if self.in_penalty_box[self.current_player]:
             if roll % 2 != 0:
                 self.is_getting_out_of_penalty_box = True
 
-                print("%s is getting out of the penalty box" % self.players[self.current_player])
+                self.__output.print("%s is getting out of the penalty box" % self.players[self.current_player])
                 self.places[self.current_player] = self.places[self.current_player] + roll
                 if self.places[self.current_player] > 11:
                     self.places[self.current_player] = self.places[self.current_player] - 12
 
-                print(self.players[self.current_player] + \
+                self.__output.print(self.players[self.current_player] + \
                             '\'s new location is ' + \
                             str(self.places[self.current_player]))
-                print("The category is %s" % self._current_category)
+                self.__output.print("The category is %s" % self._current_category)
                 self._ask_question()
             else:
-                print("%s is not getting out of the penalty box" % self.players[self.current_player])
+                self.__output.print("%s is not getting out of the penalty box" % self.players[self.current_player])
                 self.is_getting_out_of_penalty_box = False
         else:
             self.places[self.current_player] = self.places[self.current_player] + roll
             if self.places[self.current_player] > 11:
                 self.places[self.current_player] = self.places[self.current_player] - 12
 
-            print(self.players[self.current_player] + \
+            self.__output.print(self.players[self.current_player] + \
                         '\'s new location is ' + \
                         str(self.places[self.current_player]))
-            print("The category is %s" % self._current_category)
+            self.__output.print("The category is %s" % self._current_category)
             self._ask_question()
 
     def _ask_question(self):
-        if self._current_category == 'Pop': print(self.pop_questions.pop(0))
-        if self._current_category == 'Science': print(self.science_questions.pop(0))
-        if self._current_category == 'Sports': print(self.sports_questions.pop(0))
-        if self._current_category == 'Rock': print(self.rock_questions.pop(0))
+        if self._current_category == 'Pop': self.__output.print(self.pop_questions.pop(0))
+        if self._current_category == 'Science': self.__output.print(self.science_questions.pop(0))
+        if self._current_category == 'Sports': self.__output.print(self.sports_questions.pop(0))
+        if self._current_category == 'Rock': self.__output.print(self.rock_questions.pop(0))
 
     @property
     def _current_category(self):
@@ -94,9 +100,9 @@ class Game:
     def was_correctly_answered(self):
         if self.in_penalty_box[self.current_player]:
             if self.is_getting_out_of_penalty_box:
-                print('Answer was correct!!!!')
+                self.__output.print('Answer was correct!!!!')
                 self.purses[self.current_player] += 1
-                print(self.players[self.current_player] + \
+                self.__output.print(self.players[self.current_player] + \
                     ' now has ' + \
                     str(self.purses[self.current_player]) + \
                     ' Gold Coins.')
@@ -115,9 +121,9 @@ class Game:
 
         else:
 
-            print("Answer was corrent!!!!")
+            self.__output.print("Answer was corrent!!!!")
             self.purses[self.current_player] += 1
-            print(self.players[self.current_player] + \
+            self.__output.print(self.players[self.current_player] + \
                 ' now has ' + \
                 str(self.purses[self.current_player]) + \
                 ' Gold Coins.')
@@ -129,8 +135,8 @@ class Game:
             return winner
 
     def wrong_answer(self):
-        print('Question was incorrectly answered')
-        print(self.players[self.current_player] + " was sent to the penalty box")
+        self.__output.print('Question was incorrectly answered')
+        self.__output.print(self.players[self.current_player] + " was sent to the penalty box")
         self.in_penalty_box[self.current_player] = True
 
         self.current_player += 1

@@ -1,11 +1,13 @@
 from random import randrange
 
+from SystemConsole import SystemConsole
 from trivia import Game
 
 if __name__ == '__main__':
     not_a_winner = False
 
-    game = Game()
+    console = SystemConsole()
+    game = Game(console)
 
     game.add('Chet')
     game.add('Pat')
